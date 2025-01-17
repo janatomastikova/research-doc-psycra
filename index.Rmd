@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "How to get research experience"
+author: "Psychology Community and Reasearch Association"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
