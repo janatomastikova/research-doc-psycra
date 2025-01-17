@@ -1,9 +1,24 @@
 --- 
 title: "How to get research experience"
-author: "Psychology Community and Reasearch Association"
+author: "Psychology Community and Reasearch Association (PsyCRA)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Welcome!
+
+Are you interested and motivated to find research opportunities alongside your psychology degree? Not sure what's out there or how to make sense of it? We've been there too and made this guide for you :)
+
+This is a list of opportunities based on PsyCRA enthuisiasts' research experience during their psychology degrees. We hope that this will be helpful and provide a starting point from which you can find opportunities that are right for you.
+
+## A message of encouragement
+
+Research experience will be easier to get as you move up years and be most easily available in 4th year and beyond. No one expects to have done much prior to that, but you definitely can if that interests you! The list below can help you be proactive when your emails go unanswered and you want to strengthen your skills.
+
+## Disclaimer
+
+This is not exhaustive. If you know of anything that should go on the list, please let us know!
+
+## People
+
 
