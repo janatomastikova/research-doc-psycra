@@ -7,6 +7,10 @@ site: bookdown::bookdown_site
 
 # Welcome!
 
+```{r echo=FALSE, out.width = '350px', fig.align='right'}
+knitr::include_graphics('./assets/psycra_logo.jpeg')
+```
+
 Are you interested and motivated to find research opportunities alongside your psychology degree? Not sure what's out there or how to make sense of it? We've been there too and made this guide for you :)
 
 This is a list of opportunities based on PsyCRA enthuisiasts' research experience during their psychology degrees. We hope that this will be helpful and provide a starting point from which you can find opportunities that are right for you.
@@ -19,6 +23,14 @@ Research experience will be easier to get as you move up years and be most easil
 
 This is not exhaustive. If you know of anything that should go on the list, please let us know!
 
+## About PsyCRA
+
 ## People
+
+<center>
+Jana (s2144522@ed.ac.uk)
+</center>
+<br>
+
 
 
