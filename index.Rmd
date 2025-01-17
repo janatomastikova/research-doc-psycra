@@ -7,8 +7,8 @@ site: bookdown::bookdown_site
 
 # Welcome!
 
-```{r echo=FALSE, out.width = '350px', fig.align='right'}
-knitr::include_graphics('./assets/psycra_logo.jpeg')
+```{r echo=FALSE, out.width = '350px', fig.align='centre'}
+knitr::include_graphics('./assets/psycra_logo.png')
 ```
 
 Are you interested and motivated to find research opportunities alongside your psychology degree? Not sure what's out there or how to make sense of it? We've been there too and made this guide for you :)
