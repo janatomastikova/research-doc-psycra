@@ -12,3 +12,10 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+.logo-container img {
+  width: 100px; /* Adjust the size */
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}

@@ -6,3 +6,7 @@ bookdown::gitbook:
         <li><a href="./">Research Experience Document</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    before_nav: |
+      <div style="text-align: right; padding-right: 10px;">
+        <img src="./assets/psycra_logo.png" alt="Psycra Logo" style="width: 100px;">
+      </div>
