@@ -22,7 +22,7 @@ Research experience will be easier to get as you move up years and be most easil
 
 ## Disclaimer
 
-This list is not an exhaustive. If you know of anything that should go on the list, please let us know!
+This list is not exhaustive. If you know of anything that should go on the list, please let us know!
 
 ## About PsyCRA
 
@@ -51,7 +51,7 @@ knitr::include_graphics('./assets/jana.jpg')
 <center>
 **Jana Tomastikova**
 <br>
-Head of PsyCRA
+Head of PsyCRA (made this doc - hello!)
 </center>
 <br>
 
