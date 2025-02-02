@@ -67,9 +67,7 @@ Getting research experience in your first years of undergrad is quite rare - but
 
 ## Student-led, Individually-created Courses (SLICC)
 
-- I don't known a tonne about this, but I do know the have a website which you can check out and find out more!
-
-[SLICC](https://sliccs.ed.ac.uk)
+- I don't known a tonne about this, but I do know they have a website which you can check out and find out more! Here: [SLICC](https://sliccs.ed.ac.uk)
 
 
 ## Emailing
@@ -81,6 +79,13 @@ Getting research experience in your first years of undergrad is quite rare - but
 - Do not ask post-docs or PhDs directly, you need to go through the lecturer/researcher heading the research they are working on
 
 - You can also talk to your cohort lead and the [career service](https://careers.ed.ac.uk) - set up a meeting!
+
+
+## Skills development
+
+- You can also work on your skills independently - best skills to develop would be R programming, working with Excel, Qualtrics, or learning a new programming language (like Python or Matlab)
+
+- In general, it doesn't hurt to have good marks at uni :) sometimes when you are applying for positions, they look at your transcript, so it's good to have a strong one!
 
 
 
