@@ -50,6 +50,7 @@ knitr::include_graphics('./assets/jana.jpg')
 **Jana Tomastikova**
 <br>
 Head of PsyCRA (made this doc - hello!)
+<br>
 Email me if you see mistakes, have questions or any comments (s2158655@ed.ac.uk)
 </center>
 <br>
