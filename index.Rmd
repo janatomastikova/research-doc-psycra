@@ -4,7 +4,6 @@ author: "Psychology Community and Research Association (PsyCRA)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 
-
 ---
 
 
