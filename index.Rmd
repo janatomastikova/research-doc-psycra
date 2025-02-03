@@ -6,9 +6,7 @@ site: bookdown::bookdown_site
 
 
 ---
-```{r echo=FALSE, out.width = '150px', fig.align='right'}
-knitr::include_graphics('./assets/psycra_logo.png')
-```
+
 
 # Welcome!
 
@@ -52,6 +50,7 @@ knitr::include_graphics('./assets/jana.jpg')
 **Jana Tomastikova**
 <br>
 Head of PsyCRA (made this doc - hello!)
+Email me if you see mistakes, have questions or any comments (s2158655@ed.ac.uk)
 </center>
 <br>
 
@@ -101,3 +100,11 @@ Postgraduate Liason
   - Julie Pedersen (Head of PsyCRA 2021/2022, Postgraduate Liason 2023/2024)
   - Charlotte Sudduth (Events Coordinator 2021/2022)
   - Kayleigh Smith (Communications Officer 2021/2022)
+  
+<br>
+  
+```{r echo=FALSE, out.width = '300px', fig.align='center'}
+knitr::include_graphics('./assets/psycra_logo.png')
+```
+
+

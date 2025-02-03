@@ -87,6 +87,12 @@ Getting research experience in your first years of undergrad is quite rare - but
 
 - In general, it doesn't hurt to have good marks at uni :) sometimes when you are applying for positions, they look at your transcript, so it's good to have a strong one!
 
+<br>
+  
+```{r echo=FALSE, out.width = '300px', fig.align='center'}
+knitr::include_graphics('./assets/psycra_logo.png')
+```
+
 
 
 
