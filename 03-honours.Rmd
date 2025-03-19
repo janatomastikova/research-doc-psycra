@@ -109,28 +109,28 @@ For more information, follow [this link.](https://medicalresearchscotland.org.uk
 
 ## Our Minds Programme
 
-- Edinburgh Neuroscience funds up to eight 2-month-long projects exploring some aspect of our thinking, past, present or future - this could be a research project or an outreach project or even and artsy project.
+- The Our Minds programme is looking to fund up to eight 6 week long projects exploring some aspect of our thinking, past, present or future. 
 
-- This is more of a diverse/flexible programme which doesn't necessarily have to be research.
+- This is more of a diverse/flexible programme,.
 
-- From the website to get an idea of what they are looking for: "The project should be relevant to questions concerning our minds, such as how it works, why we think the way we do, what we think about, and the outcomes this thinking leads to. For example, you might be interested in creating artwork that explores and questions ideas about the mind, or in exploring the phrenologist’s collection in the Anatomical Museum, you could work in a laboratory studying how the brain works or how it can go wrong, or you might want to tell stories about historical or contemporary issues/challenges related to the mind."
+- From the website to get an idea of what they are looking for: "TThe project should be relevant to questions concerning our minds, such as how it works, why we think the way we do, what we think about, and the outcomes this thinking leads to. For example, you might be interested in creating artwork that explores and questions ideas about the mind, or in exploring the phrenologist’s collection in the Anatomical Museum, you could work in a laboratory studying how the brain works or how it can go wrong, or you might want to tell stories about historical or contemporary issues/challenges related to the mind. These are just a few ideas; the possibilities are endless. As long as your proposal is relevant to the broad theme of Our Minds, we will consider it.."
 
 - You still need to approach a supervisor before you propose the project.
 
 - You will need to propose how you will engage the public with the outcome of your project.
 
-- You will get a taxable two-month scholarship of £3,500 in total and a contribution of up to £500 for additional expenses.
+- They will be offering up to eight people the opportunity to work on their idea by providing you with a taxable 6 week scholarship total £2800. If you are a PhD student, you would need to suspend your PhD studies and PhD Scholarship to carry out an Our Minds project.  
 
 <br>
 
-**The deadline hasn't been set yet for this year, but from previous years you should expect it to be around April time.**
+**The deadline is 5 pm on Friday 21 March 2025.**
 
-For more information, although they still need to update it, look [here](https://www.edinburghneuroscience.ed.ac.uk/scholarshipsfunding/scholarship-our-mind-programme).
+For more information, although they still need to update it, look [here](https://biomedical-sciences.ed.ac.uk/biomedical-teaching-organisation/bmto-undergraduate-students/career-services/our-minds-scholarship).
 
 **Ask [Jana](https://uk.linkedin.com/in/jana-tomastikova) for experience.**
 
 
-## New:  Science and Policy internship scheme at the MRC CBU
+## Science and Policy internship scheme at the MRC CBU
 
 - This is a new internship scheme from 2025 which aims to recruit an undergraduate intern in collaboration with the UK Government Department for Science, Innovation and Technology to tackle questions relating to mental health, developmental trajectories and social media usage.
 
@@ -184,7 +184,24 @@ For more information, visit [this link.](http://theava.net/awards/bradshaw-eagle
 **Ask [Jana](https://uk.linkedin.com/in/jana-tomastikova) for application experience (again, I didn't end up taking it but got it offered).**
 
 <br>
+
+
+## Anna Freud Researcher Internship Scheme
+
+- This is an annual Researcher Internship Scheme that offers six individuals a three-month funded placement at Anna Freud (a mental health charity).
+
+- The scheme is aimed at making research careers more accessible and inclusive for individuals who often experience additional barriers in pursuing research careers, or who are underrepresented in the field of mental health research.
+
+- You can apply if you are in the 2nd or 3rd year of your degree.
+
+- A full-time salary covering the three-month internship period.
+
+**Deadline for 2025 TBD.** 
+
+For more information, visit [this link.](https://www.annafreud.org/get-involved/get-involved-with-research/researcher-internship-scheme/)
   
+<br>
+
 ```{r echo=FALSE, out.width = '300px', fig.align='center'}
 knitr::include_graphics('./assets/psycra_logo.png')
 ```
